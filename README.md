@@ -58,7 +58,7 @@ I thrive on solving problems—be it debugging a tricky code snippet, creating v
 
 ## 📫 Get in Touch  
 
-- **Email**: [shv.harshan68@gmail.com](shv.harshan68@gmail.com)  
+- **Email**: [shv.harshan68@gmail.com](mailto:shv.harshan68@gmail.com)  
 - **LinkedIn**: [LinkedIn-Harsha](https://www.linkedin.com/in/harsha-vardhan-4a4687151/)  
 - **Photography**: [sleeky_clicks](https://www.instagram.com/sleeky_clicks)  
 
